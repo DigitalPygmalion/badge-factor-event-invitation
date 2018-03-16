@@ -1,4 +1,4 @@
-# Badge Factor Moodle Bridge
+# Badge Factor Event Invitation
 
 ## About
 
