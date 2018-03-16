@@ -1,0 +1,125 @@
+div[data-interface="events"] .stats-form{
+    margin: 35px 0 0;
+    display: block;
+}
+
+div[data-interface="events"] .stats-form input[type="submit"]{
+    margin: 10px 0;
+    display: block;
+}
+
+.form-group{
+    display: block;
+}
+
+.form-group label{
+    display: block;
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.form-group .form-field{
+    height: 35px;
+    font-size: 25px;
+    width: auto;
+    border-radius: 10px;
+}
+
+
+div[data-interface="event-stats"] table {
+    border-collapse: collapse;
+}
+
+div[data-interface="event-stats"] table, div[data-interface="event-stats"] th, div[data-interface="event-stats"] td {
+    border: 1px solid black;
+}
+
+td{
+    padding:5px 10px;
+}
+
+ul li ul {
+    padding-left: 40px;
+}
+
+#legend{
+    page-break-before: always;
+}
+
+/* Event stats page */
+.loader {
+    display: none;
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.statistics-wrapper{
+    width: 100%;
+}
+
+.statistics-wrapper .item{
+    width: 250px;
+    height: 150px;
+    background-color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+    vertical-align: top;
+    border: 2px solid rgb(0, 129, 197);
+}
+
+.statistics-wrapper .item h2{
+    font-size: 22px;
+}
+
+.statistics-wrapper .item span{
+    font-size: 30px;
+}
+
+#add-member-form{
+    display: none;
+}
+
+form{
+    display: inline-block;
+}
+
+.ui-dialog{
+    min-width: 70%;
+}
+
+.dialog-title{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.orders{
+    list-style: bullet;
+    padding-left: 20px;
+}
+
+.orders .items{
+    list-style: square;
+    padding-left: 20px;
+}
+
+.badges{
+    padding: 0;
+
+}
+
+.badges li {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}

@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bf-events\n"
+"POT-Creation-Date: 2017-11-26 16:53-0500\n"
+"PO-Revision-Date: 2017-11-26 17:03-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Lib/EventTable.php:165 Lib/OrganisationTable.php:56 Lib/Statistics.php:173
+#: Lib/group_table.php:145 Lib/organisation_table.php:145
+msgid "Name"
+msgstr "Nom"
+
+#: Lib/EventTable.php:166 Lib/group_table.php:146
+#: Lib/organisation_table.php:146
+msgid "Montant du porte-feuille"
+msgstr ""
+
+#: Lib/EventTable.php:167 Lib/group_table.php:147
+#: Lib/organisation_table.php:147
+msgid "Badge associé"
+msgstr ""
+
+#: Lib/EventTable.php:168 Lib/group_table.php:148
+#: Lib/organisation_table.php:148
+msgid "Membres inscrit"
+msgstr ""
+
+#: Lib/EventTable.php:169 Lib/group_table.php:149
+#: Lib/organisation_table.php:149
+msgid "Membres qui ont acheté un produit"
+msgstr ""
+
+#: Lib/EventTable.php:212 Lib/Statistics.php:56
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: Lib/EventTable.php:213
+msgid "Edit the event"
+msgstr "Modifier l’événement"
+
+#: Lib/EventTable.php:214
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Lib/OrganisationTable.php:57
+msgid "Events"
+msgstr "Événements"
+
+#: Lib/OrganisationTable.php:82
+msgid "Edit the organisation"
+msgstr "Modifier l’organisation"
+
+#: Lib/OrganisationTable.php:83
+msgid "See all events"
+msgstr "Montrer tous les événements"
+
+#: Lib/OrganisationTable.php:84
+msgid "Add new event"
+msgstr "Ajouter un nouveau événement"
+
+#: Lib/Statistics.php:19
+msgid "report-"
+msgstr "rapport-"
+
+#: Lib/Statistics.php:49
+msgid "Report #"
+msgstr "Rapport #"
+
+#: Lib/Statistics.php:53
+msgid "Period: "
+msgstr "Période: "
+
+#: Lib/Statistics.php:53
+msgid "Until"
+msgstr "Jusqu’au"
+
+#: Lib/Statistics.php:61
+msgid " users received the badge for the event : "
+msgstr " utilisateurs ont le badge pour l’événement: "
+
+#: Lib/Statistics.php:66
+msgid " users received the credit of "
+msgstr " utilisateurs ont reçu le créedit de "
+
+#: Lib/Statistics.php:66
+msgid "For a total value of :"
+msgstr "Pour une valeur totale de :"
+
+#: Lib/Statistics.php:81
+msgid " orders have been placed using the credit for a total of "
+msgstr " commandes ont été passé pour un total de "
+
+#: Lib/Statistics.php:92
+msgid " badges have been obtained by "
+msgstr " badges ont été obtenu "
+
+#: Lib/Statistics.php:92
+msgid "users"
+msgstr "utilisateurs"
+
+#: Lib/Statistics.php:100
+msgid "Badges obtained except the event badge"
+msgstr "Badges obtenu excluant le badge événement"
+
+#: Lib/Statistics.php:120
+msgid "No badges other then the event badge were obtained."
+msgstr "Aucun autre badge que celui de l’événement ont été obtenu."
+
+#: Lib/Statistics.php:124
+msgid "Badges pending"
+msgstr "Badges en attente"
+
+#: Lib/Statistics.php:143
+msgid "No badges other then the event badge are pending."
+msgstr "Aucun autre badge que celui de l’événement est en attente."
+
+#: Lib/Statistics.php:147
+msgid "Badges denied"
+msgstr "Badges décliné"
+
+#: Lib/Statistics.php:166
+msgid "No badges are denied."
+msgstr "Aucun badge a été décliné."
+
+#: Lib/Statistics.php:172
+msgid "Order #"
+msgstr "Commande #"
+
+#: Lib/Statistics.php:174 Lib/invited_member_table.php:83
+#: Lib/member_table.php:68 Lib/registered_member_table.php:127
+#: cadre21-event-invitation.php:724
+msgid "Email"
+msgstr "Courriel"
+
+#: Lib/Statistics.php:175
+msgid "Date"
+msgstr "Date"
+
+#: Lib/Statistics.php:176
+msgid "Amount"
+msgstr "Montant"
+
+#: Lib/Statistics.php:177
+msgid "Payment method"
+msgstr "Méthode de paiement"
+
+#: Lib/Statistics.php:178
+msgid "Products"
+msgstr "Produits"
+
+#: Lib/Statistics.php:216
+msgid "No orders have been placed."
+msgstr "Aucun commande a été passé."
+
+#: Lib/Statistics.php:276
+msgid "legend"
+msgstr "légende"
+
+#: Lib/group_table.php:144 Lib/invited_member_table.php:82
+#: Lib/member_table.php:67 Lib/organisation_table.php:144
+#: Lib/registered_member_table.php:126
+msgid "ID"
+msgstr "ID"
+
+#: Lib/invited_member_table.php:84 Lib/member_table.php:69
+#: Lib/registered_member_table.php:128 cadre21-event-invitation.php:725
+msgid "Lastname"
+msgstr "Nom de famille"
+
+#: Lib/invited_member_table.php:85 Lib/member_table.php:70
+#: Lib/registered_member_table.php:129 cadre21-event-invitation.php:726
+msgid "Firstname"
+msgstr "Prénom"
+
+#: Lib/invited_member_table.php:86 Lib/member_table.php:71
+#: Lib/registered_member_table.php:130
+msgid "Current wallet amount"
+msgstr "Montant actuel du portefeuille"
+
+#: Lib/invited_member_table.php:87 Lib/member_table.php:72
+#: Lib/registered_member_table.php:131
+msgid "Registered member"
+msgstr "Membre enregistré"
+
+#: Lib/invited_member_table.php:125 Lib/invited_member_table.php:139
+#: Lib/member_table.php:110 Lib/member_table.php:124
+#: Lib/registered_member_table.php:169 Lib/registered_member_table.php:183
+msgid "Not registered"
+msgstr "Non inscrit"
+
+#: cadre21-event-invitation.php:64 cadre21-event-invitation.php:109
+msgid "Could not create the Organisation PostType."
+msgstr ""
+
+#: cadre21-event-invitation.php:114
+msgid "Could not create the Group PostType."
+msgstr ""
+
+#: cadre21-event-invitation.php:119
+msgid "Could not create the Group Member PostType."
+msgstr ""
+
+#: cadre21-event-invitation.php:150
+msgid "Failed to create the new Organisation."
+msgstr ""
+
+#: cadre21-event-invitation.php:496
+msgid "Add a new group"
+msgstr "Ajouter un nouveau événement"
+
+#: cadre21-event-invitation.php:504 cadre21-event-invitation.php:681
+msgid "Start date"
+msgstr "Date de début"
+
+#: cadre21-event-invitation.php:505 cadre21-event-invitation.php:683
+msgid "End date"
+msgstr "Date de fin"
+
+#: cadre21-event-invitation.php:506
+msgid "Export the statistics"
+msgstr "Exporter les statistiques"
+
+#: cadre21-event-invitation.php:537
+msgid "Create a new event"
+msgstr "Créer un nouveau événement"
+
+#: cadre21-event-invitation.php:538
+msgid "Please complete the form below in order to create a new group"
+msgstr ""
+
+#: cadre21-event-invitation.php:540
+msgid "Group name"
+msgstr ""
+
+#: cadre21-event-invitation.php:541
+msgid "Amount of the wallet"
+msgstr ""
+
+#: cadre21-event-invitation.php:542
+msgid "Associated badge"
+msgstr ""
+
+#: cadre21-event-invitation.php:543
+msgid "No badge"
+msgstr ""
+
+#: cadre21-event-invitation.php:549
+msgid "CSV file"
+msgstr ""
+
+#: cadre21-event-invitation.php:581
+msgid "You need to choose a begin date before then the end date !"
+msgstr ""
+
+#: cadre21-event-invitation.php:584
+msgid "Stats from"
+msgstr ""
+
+#: cadre21-event-invitation.php:584
+msgid "till"
+msgstr ""
+
+#: cadre21-event-invitation.php:693
+msgid "reset"
+msgstr ""
+
+#: cadre21-event-invitation.php:699
+msgid "number of members"
+msgstr ""
+
+#: cadre21-event-invitation.php:703
+msgid "number of registered members"
+msgstr ""
+
+#: cadre21-event-invitation.php:707
+msgid "number of members that purchased"
+msgstr ""
+
+#: cadre21-event-invitation.php:711
+msgid "Total group wallet purchased"
+msgstr ""
+
+#: cadre21-event-invitation.php:715
+msgid "Total group personal purchased"
+msgstr ""
+
+#: cadre21-event-invitation.php:720
+msgid "Add a member to this group"
+msgstr ""
+
+#: cadre21-event-invitation.php:727
+msgid "Add member"
+msgstr ""
+
+#: cadre21-event-invitation.php:732
+msgid "Registered members"
+msgstr ""
+
+#: cadre21-event-invitation.php:744
+msgid "Unregistered members"
+msgstr ""
+
+#: cadre21-event-invitation.php:1002
+msgid "Last login"
+msgstr ""
+
+#: cadre21-event-invitation.php:1002
+msgid "Orders"
+msgstr ""
+
+#: cadre21-event-invitation.php:1024
+msgid "Order placed on"
+msgstr ""
+
+#: cadre21-event-invitation.php:1030
+msgid "Total"
+msgstr ""
+
+#: cadre21-event-invitation.php:1041
+msgid "Obtained badges"
+msgstr ""
+
+#: vendor/user-waller-credit-system/admin/admin-options.php:91
+msgid "Save Changes"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/filters.php:62
+msgid "Buy Now"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/filters.php:65
+msgid "Add to cart"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/functions.php:23
+msgid "Credit Amount ("
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/functions.php:26
+msgid "The amount of credits for this product in currency format."
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:29
+#: vendor/user-waller-credit-system/includes/gateway.php:77
+msgid "User Wallet"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:30
+msgid "Have your customers pay with their user wallet balance."
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:67
+#: vendor/user-waller-credit-system/includes/gateway.php:68
+msgid "Enable User Wallet"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:74
+msgid "Title"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:76
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:81
+msgid "Description"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:83
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:84
+msgid "Pay using your Wallet."
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:88
+msgid "Instructions"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:90
+msgid "Instructions that will be added to the thank you page."
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:91
+msgid "Pay using your Wallet"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:95
+msgid "Enable for shipping methods"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:100
+msgid ""
+"If User Wallet is only available for certain shipping methods, set it up "
+"here. Leave blank to enable for all methods."
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:104
+msgid "Select shipping methods"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:108
+msgid "Enable for virtual orders"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:109
+msgid "Enable User Wallet if the order is virtual"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:224
+#: vendor/user-waller-credit-system/includes/gateway.php:240
+msgid "<strong>Payment error:</strong>"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:251
+msgid "<strong>System error:</strong>"
+msgstr ""
+
+#: vendor/user-waller-credit-system/includes/gateway.php:258
+msgid "Payment completed use Virtual Wallet"
+msgstr ""
